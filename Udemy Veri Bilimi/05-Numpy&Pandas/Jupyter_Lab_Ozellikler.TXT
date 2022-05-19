@@ -1,0 +1,11 @@
+1-Yeni bir hücre eklemek istersek çalıştığımız hücrenin altına eklemek istersek hücre dışına çıkıp b ye 
+çalıştığımız hücrenin üstüne eklemek istersek a ya basabiliriz.
+
+2-Bir hücreyi kesmek istersek hücrenin dışına gelip x e basmamız yeterli ve yapıştırmak içinde herhangi biyere gelip v tuşuna basmamız yeterli kopyalamada aynı şekilde c ile yapılabilir
+yani hücre içi yapmak isterseniz ctrl+c v x şeklinde ama hücrelerin tamamında işlem için hücre dışına gelip sadece c v x şeklinde yapılır
+
+3-Shift ile birden fazla hucre secebiliriz istersek
+
+4- Markdown ile başlık olusturulur Code ile bildiğimiz kod mantığı olan kod blokları oluşturulur.
+
+5- 2 kere D ye basmak (D+D) hücreyi siler
